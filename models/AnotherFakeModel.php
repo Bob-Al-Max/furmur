@@ -14,5 +14,7 @@ namespace app\models;
  * @author User
  */
 class AnotherFakeModel {
-    //put your code here
+    public function somefunc(){
+        
+    }
 }
