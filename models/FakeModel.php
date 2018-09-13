@@ -14,7 +14,5 @@ namespace app\models;
  * @author User
  */
 class FakeModel {
-  public function  fake(){
-      return 1;
-  }
+  
 }
