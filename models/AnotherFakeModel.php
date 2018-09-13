@@ -17,4 +17,4 @@ class AnotherFakeModel {
     public function somefunc(){
        return 1; 
     }
-}
+    }
