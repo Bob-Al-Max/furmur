@@ -19,6 +19,6 @@ class AnotherFakeModel {
     }
     
     public function newfunc(){
-        echo 'this is test';
+        echo 'this is testwsdfddddddd';
     }
     }
