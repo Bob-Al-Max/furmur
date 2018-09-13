@@ -17,4 +17,8 @@ class AnotherFakeModel {
     public function somefunc(){
        return 1; 
     }
+    
+    public function newfunc(){
+        echo 'this is test';
+    }
     }
